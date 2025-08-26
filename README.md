@@ -1,4 +1,4 @@
-## Kube Watch
+## Optical Watch
 ```bash
 
 make docker-compose_infra_up
